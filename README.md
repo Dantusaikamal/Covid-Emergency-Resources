@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/Dantusaikamal/Covid-Emergency-Resources?include_prereleases">
   <img src="https://img.shields.io/github/last-commit/Dantusaikamal/Covid-Emergency-Resources">
   <img src="https://img.shields.io/github/issues-raw/Dantusaikamal/Covid-Emergency-Resources">
   <img src="https://img.shields.io/github/issues-pr/Dantusaikamal/Covid-Emergency-Resources">
