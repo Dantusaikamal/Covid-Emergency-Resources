@@ -17,12 +17,16 @@
 
 [Developed for Hack-o-Relay]  
 
-### Team Name: Team Introspectors
-### Team Lead: Dantu Venkata Sai Kamal
+#### Team Name: Team Introspectors
+#### Team Lead: Dantu Venkata Sai Kamal
 
 ## Our Solution: 
 
 A webpage created to know the availability of Emergency supplies such as Remdesivir injection, Oxygen cylinders and more.
+
+With the pandemic hitting out of the blues, we have seen the scarcity of essential resources such as oxygen cylinders, medicines and more. We have seen people struggling to procure such resources with very less information about the availability of those resources.
+
+To tackle this issue, we developed a simple web application to keep track the availability of essential resources. 
 
 # Demo-Preview
 
